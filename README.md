@@ -15,7 +15,7 @@ A comprehensive, multi-page Power BI dashboard designed to analyze global popula
 
 ### 1. Country & Economic Dashboard
 Analyze the relationship between government structures and economic output.
-![Country Dashboard](./Images/Country_Dashboard.png)
+![Country Dashboard](./Power BI Project/Images/Country_Dashboard.png)
 
 ### 2. Urban & Cultural Analysis
 Insights into the world's most populous cities and language distributions.
