@@ -15,7 +15,7 @@ A comprehensive, multi-page Power BI dashboard designed to analyze global popula
 
 ### 1. Country & Economic Dashboard
 Analyze the relationship between government structures and economic output.
-![Country Dashboard]([./Power BI Project/Images/Country_Dashboard.png](https://github.com/Hitesh230/Global-Demographics-Economic-Insights/blob/8670f9f4605d06b0f042240aa7c09e41484c9565/Power_BI_Project/Images/Country_Dashboard.png)
+![Country Dashboard](https://github.com/Hitesh230/Global-Demographics-Economic-Insights/blob/8670f9f4605d06b0f042240aa7c09e41484c9565/Power_BI_Project/Images/Country_Dashboard.png)
 
 ### 2. Urban & Cultural Analysis
 Insights into the world's most populous cities and language distributions.
@@ -35,4 +35,3 @@ Insights into the world's most populous cities and language distributions.
 ## 📂 How to View
 1. Download the `.pbix` file from the `/Report` folder.
 2. Open it using **Power BI Desktop**.
-3. Or Direct link(https://github.com/Hitesh230/Global-Demographics-Economic-Insights/blob/8670f9f4605d06b0f042240aa7c09e41484c9565/Power_BI_Project/Report/Global%20Demographics%20%26%20Economic%20Insights%20Dashboard%20.pbix)
